@@ -29,7 +29,7 @@ logo = """
 \033[1;91m-----------------------------------------------------
 """
 def main_apv():
-    imt=" -imtaiz"
+    imt=" -mahdi"
     os.system('clear')
     print logo
     try:
@@ -56,8 +56,8 @@ def main_apv():
         os.system("clear")
         print logo
         print ("You dont have subscrption")
-        print ("Hello Dear Ya Cammonds Paid Han Or Ap Ke Subscription Nhi Ha Please Ap Admin Sa Rabta Kran Thanks")
-        print (" Subscription Kelya Enter Press Kro Or Whatsapp Pa Rabta Kro Thanks")
+        print ("Hello Dear This Cammonds is Paid ,So friest toy need premishon on the admin Thank you all")
+        print (" Subscription Kelya Enter Press Or contract Whatsapp   Thanks ypu all")
         print ("Your key : "+key1)
         print ("jo mrzi likh lena")
         raw_input("Agar Ap Na Subscription Kar Le Ha To Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio Thanks")
@@ -66,8 +66,7 @@ def main_apv():
   print("""\33[93m███╗   ███╗ █████╗██╗  ██╗██████╗ ██╗     \n\033[91m███╗ ████║██╔══██╗██║  ██║██╔══██╗██║    \n\033[1;32m██╔████╔██║███████║███████║██║  ██║██║   \n\33[97m██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    \n\033[96m██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    \n\033[0;35m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝\033[0m 
 \033[0m================================================================
 \33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO
-\033[0;33mGITHUB : \033[1;97mhttps://github.com/Shuvo-BBHH
-WELL COME SYLHET GAMG (IAM NEW MEMBER IN YOUR GRUP)
+\033[0;33mGITHUB : \033[1;97mhttps://github.com/MAHDI-Shuvo
 LIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ================================================================""")
