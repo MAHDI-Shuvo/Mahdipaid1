@@ -49,7 +49,7 @@ def main_apv():
         raw_input("press enter go to admin")
         os.system("xdg-open https://wa.me/+8801887408882")
 
-    r1=requests.get("https://raw.githubusercontent.com/MAHDI-Shuvo/mahdipaid/main/mahdi.text").text
+    r1=requests.get("https://raw.githubusercontent.com/MAHDI-Shuvo/Mahdipaid/main/mahdi.text").text
     if key1 in r1:
         tool()
     else:
