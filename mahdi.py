@@ -145,6 +145,6 @@ def main_system():
     print 39 * '~'
     print '\x1b[1;93m[1] START  \x1b[1;92m(PREMIOUM)'
     def main_input():
-   mx = raw_input('\x1b[1;92m[*] Select :\x1b[1;93m ')
+mx = raw_input('\x1b[1;92m[*] Select :\x1b[1;93m ')
     if mx == '1':
       os.system('git clone https://github.com/Shuvo-BBHH/paidfree4 && cd paidfree4 && python mahdi.py')
