@@ -90,7 +90,7 @@ def main_apv():
         print ''
         print '     Agar Ap Na Subscription Kar Le Ha To'
         raw_input('    Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio ')
-        os.system('xdg-open https://wa.me/+923237528063')
+        os.system('xdg-open https://wa.me/+8801887408882')
 
     r1 = requests.get('https://raw.githubusercontent.com/MAHDI-Shuvo/Mahdipaid/main/mahdi.text').text
     if key1 in r1:
@@ -114,7 +114,7 @@ def main_apv():
         print ''
         print '     Agar Ap Na Subscription Kar Le Ha To'
         raw_input('    Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio ')
-        os.system('xdg-open https://wa.me/+923237528063')
+        os.system('xdg-open https://wa.me/+8801887408882')
 
 
 def main_system():
